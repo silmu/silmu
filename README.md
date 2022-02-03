@@ -13,6 +13,7 @@ at ✨ University of Helsinki:
   - Introduction to Programming (Java)
   - Introduction to AI
   - Computing Tools for CS Studies
+  
 at ✨ Metropolia University:
   - Python Programming
   - C Programming
