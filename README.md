@@ -8,3 +8,18 @@
 - 👾 Pronouns: she / her
 - ⚡ Fun fact: I am also an illustrator: www.instagram.com/misori.art
 
+Courses that I studied:
+✨ at University of Helsinki:
+  - Introduction to Programming (Java)
+  - Introduction to AI
+  - Computing Tools for CS Studies
+✨ at Metropolia University:
+  - Python Programming
+  - C Programming
+  - C++ Programming  
+  - PHP Programming
+  - SQL and Relational Databases
+  - Engineering mathematics
+  - Introduction to Kotlin
+  - Developing Modern Web Platforms(HTML-CSS-JS)
+  - Node.js
