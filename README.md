@@ -9,6 +9,7 @@
 - ⚡ Fun fact: I am also an illustrator: www.instagram.com/misori.art
 
 Courses that I studied:
+
 at ✨ University of Helsinki:
   - Introduction to Programming (Java)
   - Introduction to AI
