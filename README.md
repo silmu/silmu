@@ -23,5 +23,5 @@ at ✨ Metropolia University:
   - SQL and Relational Databases
   - Engineering mathematics
   - Introduction to Kotlin
-  - Developing Modern Web Platforms(HTML-CSS-JS)
+  - Developing Modern Web Platforms(HTML-CSS-JavaScript)
   - Node.js
