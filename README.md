@@ -1,4 +1,4 @@
-### Hello friend 👋
+### Hello 👋 I am Sveta, fullstack developer
 ![alt Codewars rank 5](https://www.codewars.com/users/silmu/badges/small)
 
 - 🔭 I’m currently working on [portfolio projects](https://silmu.github.io/index.html)
