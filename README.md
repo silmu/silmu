@@ -1,5 +1,5 @@
-### Hello 👋 I am Sveta, a fullstack web developer
 ![alt Codewars rank 5](https://www.codewars.com/users/silmu/badges/small)
+### Hello 👋 I am Sveta, a fullstack web developer
 
 - 🌱 I’m currently studying Fullstack (JavaScript, PHP, React, Redux, Symfony, Drupal, SQL)
 - 👾 I'm a student at [Business College Helsinki](https://www.bc.fi)
