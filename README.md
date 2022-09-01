@@ -2,7 +2,7 @@
 ### Hello 👋 I am Sveta, a fullstack web developer
 
 - 🚀 I'm currently working on [study projects](https://silmu.github.io/)
-- 🌱 I’m currently studying Fullstack (JavaScript, PHP, React, Redux, Symfony, Drupal, SQL)
+- 🌱 I’m currently looking for internship. Check out my [portfolio](https://silmu.herokuapp.com/)
 - 👾 I'm a student at [Business College Helsinki](https://www.bc.fi)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/svetlana-raitina)
 - ⚡ Fun fact: I am also an [illustrator](https://www.instagram.com/misori.art)
