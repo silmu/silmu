@@ -1,8 +1,7 @@
 ![alt Codewars rank 5](https://www.codewars.com/users/silmu/badges/small)
-### Hello 👋 I am Sveta, a fullstack web developer
+### Hello 👋 I am Sveta, a backend developer at [GeekLab](https://geeklab.app/)
 
-- 🌱 Check out my [portfolio](https://silmu.dev/)
-- 👾 I'm a Fullstack Web Developer at [GeekLab](https://geeklab.app/).
+- 👾 Check out my [portfolio](https://silmu.dev/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/svetlana-raitina)
 - ⚡ Fun fact: I am also an [illustrator](https://www.instagram.com/misori.art)
 
